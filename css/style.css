@@ -163,3 +163,36 @@ footer .title{
     color: white;
     padding: 3%;
 }
+@media screen and (max-width: 414px){
+    #welcome-section{
+    width: 100%;
+    height: 100vh;
+    }
+    h1{
+        font-size: 2.5rem;
+    }
+    nav#navbar{
+        justify-content: flex-start;
+    }
+    section#welcome-section h2{
+        text-align: center;
+        font-size: 3rem;
+        padding-top: 5%;
+    }
+    .projects-organization{
+        display: block;
+        margin-bottom: 0;
+    }
+    #projects{
+        height: 235vh;
+    }
+    #projects h2.project-title{
+        padding-bottom: 12%;
+    }
+   div.button{
+    padding-top: 7%;
+   }
+   div.icons-social-media{
+    display: block;
+   }
+}
