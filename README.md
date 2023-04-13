@@ -12,7 +12,9 @@
 🌱 Wikipedia viewer/tic-tac-toe game.
 
 The webpage also includes <strong>links to our social networks and contact information </strong>.<br/> 
-It consists of a <strong>header, sections, and a footer.</strong>
+It consists of a <strong>header, sections, and a footer.</strong><br/>
+This project is <strong>mobile responsive.</strong><br/>
+We used <strong> media queries for Iphone 14 </strong>
 
 🚀 Technologies used: <br/>
 ##### Git<br/>
