@@ -148,6 +148,10 @@ padding-top: 16%;
     display: flex;
     justify-content: space-evenly;
 }
+figure.image-icon a{
+    color: white;
+    text-decoration: none;
+}
 hr{
     border: solid 5px red;
 }
